@@ -124,6 +124,7 @@ function App() {
               CSS, JavaScript, React, PHP, Laravel, MySQL
             </p>
             <ul className="DetailText TextWhite">
+              <li>Use JWT token for user authentication.</li>
               <li>
                 Used React as front-end client Side and Laravel as API back-end
                 server.
@@ -224,6 +225,7 @@ function App() {
                   Login to the application and creating account using Google
                   OAuth.
                 </li>
+                <li>Use JWT token for user authentication.</li>
                 <li>
                   Read the license plate using the camera and API from "AI FOR
                   THAI"'s Panyapradit-LPR.
